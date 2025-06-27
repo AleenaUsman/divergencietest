@@ -1,0 +1,1 @@
+[20-Jun-2025 19:43:13 UTC] Cron reschedule event error for hook: delete_expired_transients, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
